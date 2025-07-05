@@ -1,1 +1,1 @@
-<p align="center"> <img src="https://depositphotos.com/br/vector/grocery-shopping-discount-banner-110819658.html" alt="moniquerp" /> </p>
+<p align="center"> <img src="depositphotos_110819658-stock-illustration-grocery-shopping-discount-banner.jpg" alt="moniquerp" /> </p>
