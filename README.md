@@ -1,1 +1,1 @@
-![banner](assets/banner.jpg)
+<img align="center" width="200px" style="margin-top:50px" src="/assets/banner.png">
