@@ -1,1 +1,1 @@
-<img align="center" width="200px" style="margin-top:50px" src="/assets/banner.png">
+<p align="center"> <img src="/assets/banner.jpg" alt="lista_sup /> </p>
