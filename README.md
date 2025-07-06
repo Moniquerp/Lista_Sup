@@ -1,1 +1,1 @@
-<p align="center"> <img src="/assets/banner.jpg" alt="lista_sup /> </p>
+<p align="center"> <img src="/assets/banner.jpg" alt="lista_sup" /> </p>
