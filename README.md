@@ -6,10 +6,7 @@
 
 <table>
 <tr>
-<td>
-<div align= "right">
-<img src="https://media1.tenor.com/m/QNiDiabC3JAAAAAd/going-shopping-pembe.gif" width="270">
-</div>
+<td><img src="https://media1.tenor.com/m/QNiDiabC3JAAAAAd/going-shopping-pembe.gif" width="270">
 </td>
 <td>
 
