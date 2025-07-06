@@ -14,6 +14,9 @@
 <tr><td><li> Maça</li></td></tr>
 </p>
 
+<div align="center">
+<img src="https://tenor.com/pt-BR/view/going-shopping-pembe-pembe-the-pink-cat-doing-the-groceries-getting-food-gif-4672629240628436112" width="200">
+</div> 
 
 <p>
 <table>
