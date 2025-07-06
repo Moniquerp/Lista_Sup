@@ -5,6 +5,14 @@
 ## Lista de Compras:
 <p>
 <table>
-<li> Batata</li><li> Pão</li><li> Queijo</li><li> Salame</li><li> Manteiga</li>
+<tr>
+<li> Batata</li>
+</tr>
+
+<tr>
+<li> Pão</li>
+</tr>
+
+<li> Queijo</li><li> Salame</li><li> Manteiga</li>
 </table>
 </p>
