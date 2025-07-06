@@ -37,13 +37,11 @@
 
 <p>
 <table>
-<tr>
-<th><li> Lista de Compras</li></th>
-<tr>
-<td><li> Batata</li></td>
-<td><li> Pão</li></td>
-<td><li> Queijo</li></td>
-<td><li> Salame</li></td>
-<td><li> Manteiga</li></td>
+<tr><th> Lista de Compras</th><tr>
+<tr><td><li> Batata</li></td></tr>
+<tr><td><li> Pão</li></td></tr>
+<tr><td><li> Queijo</li></td></tr>
+<tr><td><li> Salame</li></td></tr>
+<tr><td><li> Manteiga</li></td></tr>
 </table>
 </p>
