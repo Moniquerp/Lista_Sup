@@ -18,6 +18,28 @@
 </p>
 
 <p>
+<table>
+<tr><th> Alimentos:</th><tr>
+<tr><td><li> Batata</li></td></tr>
+<tr><td><li> Pão</li></td></tr>
+<tr><td><li> Queijo</li></td></tr>
+<tr><td><li> Salame</li></td></tr>
+<tr><td><li> Manteiga</li></td></tr>
+</table>
+</p>
+
+<p>
+<table style="width:400px">
+<tr><th> Alimentos:</th><tr>
+<tr><td><li> Batata</li></td></tr>
+<tr><td><li> Pão</li></td></tr>
+<tr><td><li> Queijo</li></td></tr>
+<tr><td><li> Salame</li></td></tr>
+<tr><td><li> Manteiga</li></td></tr>
+</table>
+</p>
+
+<p>
 <table style="float:left">
 <tr><th> Produtos de higiene:</th><tr>
 <tr><td><ul> Sabonete</ul></td></tr>
