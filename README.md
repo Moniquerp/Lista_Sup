@@ -34,3 +34,15 @@
 </tr>
 </table>
 </p>
+
+<p>
+<table>
+<tr>
+<tr><li> Batata</li></tr>
+<tr><li> Pão</li></tr>
+<tr><li> Queijo</li></tr>
+<tr><li> Salame</li></tr>
+<tr><li> Manteiga</li></tr>
+</tr>
+</table>
+</p>
