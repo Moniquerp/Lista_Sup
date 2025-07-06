@@ -7,7 +7,7 @@
 <table>
 <tr>
 <td>
-<img src="https://media1.tenor.com/m/QNiDiabC3JAAAAAd/going-shopping-pembe.gif" width="200">
+<img src="https://media1.tenor.com/m/QNiDiabC3JAAAAAd/going-shopping-pembe.gif" width="250">
 </td>
 <td>
 
