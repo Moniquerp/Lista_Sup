@@ -14,11 +14,11 @@
 <table>
 
 <tr>
-<th><li> Batata</li></th>
-<th><li> Pão</li></th>
-<th><li> Queijo</li></th>
-<th><li> Salame</li></th>
-<th><li> Manteiga</li></th>
+<td><li> Batata</li></td>
+<td><li> Pão</li></td>
+<td><li> Queijo</li></td>
+<td><li> Salame</li></td>
+<td><li> Manteiga</li></td>
 </tr>
 </table>
 </p>
