@@ -23,6 +23,17 @@
 
 <p>
 <table>
+<tr><th> Alimentos:</th><tr>
+<tr><td><ul> Batata</ul></td></tr>
+<tr><td><ul> Pão</ul></td></tr>
+<tr><td><ul> Queijo</ul></td></tr>
+<tr><td><ul> Salame</ul></td></tr>
+<tr><td><ul>> Maça</ul></td></tr>
+</p>
+
+
+<p>
+<table>
 <tr><th> Produtos de higiene:</th><tr>
 <tr><td><ul> Sabonete</ul></td></tr>
 <tr><td><ul> Esponja</ul></td></tr>
