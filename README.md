@@ -5,7 +5,7 @@
 ## Lista de Compras:
 
 <p>
-<table style="width:1000px">
+<table>
 <tr><th> Alimentos:</th><tr>
 <tr><td><li> Batata</li></td></tr>
 <tr><td><li> Pão</li></td></tr>
@@ -16,7 +16,7 @@
 </p>
 
 <p>
-<table style="float:left">
+<table>
 <tr><th> Produtos de higiene:</th><tr>
 <tr><td><ul> Sabonete</ul></td></tr>
 <tr><td><ul> Esponja</ul></td></tr>
@@ -26,7 +26,10 @@
 </table>
 </p>
 
-<table style="width:1000px">
+
+<div style="max-width: 100%;">
+<p align="left">
+<table>
 <tr><th> Alimentos:</th><tr>
 <tr><td><li> Batata</li></td></tr>
 <tr><td><li> Pão</li></td></tr>
@@ -34,8 +37,12 @@
 <tr><td><li> Salame</li></td></tr>
 <tr><td><li> Manteiga</li></td></tr>
 </table>
+</p>
+</div>
 
-<table style="float:left">
+<div style="max-width: 100%;">
+<p align="right">
+<table>
 <tr><th> Produtos de higiene:</th><tr>
 <tr><td><ul> Sabonete</ul></td></tr>
 <tr><td><ul> Esponja</ul></td></tr>
@@ -43,3 +50,5 @@
 <tr><td><ul> Condicionador</ul></td></tr>
 <tr><td><ul> Creme</ul></td></tr>
 </table>
+</p>
+</div>
