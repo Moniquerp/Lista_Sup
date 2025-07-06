@@ -28,3 +28,15 @@
 </table>
 </p>
 
+
+
+<p>
+<table>
+<tr><th> Produtos de higiene</th><tr>
+<tr><ul> Sabonete</ul></tr>
+<tr><ul> Esponja</ul></tr>
+<tr><ul> Shampoo</ul></tr>
+<tr><ul> Condicionador</ul></tr>
+<tr><ul> Creme</ul></tr>
+</table>
+</p>
