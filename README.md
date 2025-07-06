@@ -5,11 +5,6 @@
 ## Lista de Compras:
 
 <table>
-<tr>
-<td><img src="https://media1.tenor.com/m/QNiDiabC3JAAAAAd/going-shopping-pembe.gif" width="270">
-</td>
-<td>
-
 <p>
 <table>
 <tr><th> Lista de Alimentos:</th><tr>
