@@ -3,8 +3,6 @@
 <p align="center"> <img src="/assets/banner.jpg" alt="lista_sup" /> </p>
 
 ## Lista de Compras:
-<p>
-<table>
 
 <p>
 <table style="width:1000px">
