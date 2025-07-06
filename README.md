@@ -33,10 +33,10 @@
 <p>
 <table>
 <tr><th> Produtos de higiene</th><tr>
-<tr><ul> Sabonete</ul></tr>
-<tr><ul> Esponja</ul></tr>
-<tr><ul> Shampoo</ul></tr>
-<tr><ul> Condicionador</ul></tr>
-<tr><ul> Creme</ul></tr>
+<tr><th><ul> Sabonete</ul></th></tr>
+<tr><th><ul> Esponja</ul></th></tr>
+<tr><th><ul> Shampoo</ul></th></tr>
+<tr><th><ul> Condicionador</ul></th></tr>
+<tr><th><ul> Creme</ul></th></tr>
 </table>
 </p>
