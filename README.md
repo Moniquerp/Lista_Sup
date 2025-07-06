@@ -7,7 +7,7 @@
 <table>
 <tr>
 <td>
-<div aligh= "right">
+<div align= "right">
 <img src="https://media1.tenor.com/m/QNiDiabC3JAAAAAd/going-shopping-pembe.gif" width="270">
 </div>
 </td>
