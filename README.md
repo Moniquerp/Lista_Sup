@@ -7,28 +7,18 @@
 <table>
 <tr>
 <td>
-<img src="https://media1.tenor.com/m/QNiDiabC3JAAAAAd/going-shopping-pembe.gif" width="250">
+<img src="https://media1.tenor.com/m/QNiDiabC3JAAAAAd/going-shopping-pembe.gif" width="270">
 </td>
 <td>
 
 <p>
 <table>
-<tr><th> Alimentos:</th><tr>
+<tr><th> Lista de Alimentos:</th><tr>
 <tr><td><li> Batata</li></td></tr>
 <tr><td><li> Pão</li></td></tr>
 <tr><td><li> Queijo</li></td></tr>
 <tr><td><li> Salame</li></td></tr>
 <tr><td><li> Maça</li></td></tr>
-</p>
-
-<p>
-<table>
-<tr><th> Alimentos:</th><tr>
-<tr><td><ul> Batata</ul></td></tr>
-<tr><td><ul> Pão</ul></td></tr>
-<tr><td><ul> Queijo</ul></td></tr>
-<tr><td><ul> Salame</ul></td></tr>
-<tr><td><ul>> Maça</ul></td></tr>
 </p>
 
 
