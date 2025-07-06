@@ -37,8 +37,8 @@
 </table>
 
    </td>
-    <td style="padding-left: 50px;">
-    
+    <td style="padding-left: 300px;">
+
 <!-- Tabela 2 -->
 <table>
   <tr><th> Produtos de higiene:</th></tr>
