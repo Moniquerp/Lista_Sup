@@ -3,6 +3,16 @@
 <p align="center"> <img src="/assets/bannergreen.jpg" alt="lista_sup" /> </p>
 
 ## Lista de Compras:
+<div align="right">
+<img src="https://media1.tenor.com/m/QNiDiabC3JAAAAAd/going-shopping-pembe.gif" width="300">
+</div> 
+
+<table>
+<tr>
+<td>
+<img src="https://media1.tenor.com/m/QNiDiabC3JAAAAAd/going-shopping-pembe.gif" width="300">
+</td>
+<td>
 
 <p>
 <table>
@@ -14,10 +24,6 @@
 <tr><td><li> Maça</li></td></tr>
 </p>
 
-<div align="right">
-<img src="https://media1.tenor.com/m/QNiDiabC3JAAAAAd/going-shopping-pembe.gif" width="200">
-</div> 
-
 <p>
 <table>
 <tr><th> Produtos de higiene:</th><tr>
@@ -26,5 +32,8 @@
 <tr><td><ul> Shampoo</ul></td></tr>
 <tr><td><ul> Escova</ul></td></tr>
 <tr><td><ul> Creme</ul></td></tr>
+</table>
+ </td>
+  </tr>
 </table>
 </p>
