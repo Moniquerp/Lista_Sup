@@ -4,6 +4,9 @@
 
 ## Lista de Compras:
 
+<table>
+<tr>
+<td>
 <p>
 <table>
 <tr><th> Lista de Alimentos:</th><tr>
@@ -25,9 +28,14 @@
 <tr><td><ul> Creme</ul></td></tr>
 </table>
 
-<table>
 <td>
-<tr>
+<img src="https://media1.tenor.com/m/QNiDiabC3JAAAAAd/going-shopping-pembe.gif" width="270">
+</td>
+</tr>
+</table>
+
+
+<td>
 <img src="https://media1.tenor.com/m/QNiDiabC3JAAAAAd/going-shopping-pembe.gif" width="270">
 </td>
   </tr>
