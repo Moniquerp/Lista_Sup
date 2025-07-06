@@ -4,19 +4,8 @@
 
 ## Lista de Compras:
 
-<html>
-<head>
-<style>
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
-</style>
-</head>
-<body>
-
 <p>
-<table style="float:right">
+<table style="background-color:#00FF00">
 <tr><th> Alimentos:</th><tr>
 <tr><td><li> Batata</li></td></tr>
 <tr><td><li> Pão</li></td></tr>
@@ -25,7 +14,7 @@ table, th, td {
 <tr><td><li> Maça</li></td></tr>
 
 <p>
-<table style="float:right">
+<table style="background-color:#00FF00">
 <tr><th> Produtos de higiene:</th><tr>
 <tr><td><ul> Sabonete</ul></td></tr>
 <tr><td><ul> Esponja</ul></td></tr>
@@ -34,7 +23,3 @@ table, th, td {
 <tr><td><ul> Creme</ul></td></tr>
 </table>
 </p>
-
-
-</body>
-</html>
