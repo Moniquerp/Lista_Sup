@@ -30,7 +30,11 @@
 <tr><td><ul> Escova</ul></td></tr>
 <tr><td><ul> Creme</ul></td></tr>
 </table>
- </td>
+
+
+<td>
+<img src="https://media1.tenor.com/m/QNiDiabC3JAAAAAd/going-shopping-pembe.gif" width="270">
+</td>
   </tr>
 </table>
 </p>
