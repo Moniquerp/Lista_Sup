@@ -1,8 +1,8 @@
 
-<h1> Compras no Supermercado: </h1>
+<h1>🛒Compras no Supermercado: </h1>
 <p align="center"> <img src="/assets/bannergreen.jpg" alt="lista_sup" /> </p>
 
-## Lista de Compras:
+## 📝 Lista de Compras:
 
 <table>
 <tr>
