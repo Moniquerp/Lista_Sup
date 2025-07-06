@@ -3,7 +3,7 @@
 <p align="center"> <img src="/assets/bannergreen.jpg" alt="lista_sup" /> </p>
 
 ## 📝 Lista de Compras:
-
+<p align="center">
 <table>
 <tr>
 <td>
@@ -33,4 +33,5 @@
 </td>
 </tr>
 </table>
+</p>
 </p>
