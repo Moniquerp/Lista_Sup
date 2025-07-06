@@ -7,8 +7,8 @@
 <table>
 
 <p>
-<table>
-<tr><th> Alimentos</th><tr>
+<table style="float:right">
+<tr><th> Alimentos:</th><tr>
 <tr><td><li> Batata</li></td></tr>
 <tr><td><li> Pão</li></td></tr>
 <tr><td><li> Queijo</li></td></tr>
@@ -18,8 +18,8 @@
 </p>
 
 <p>
-<table>
-<tr><th> Produtos de higiene</th><tr>
+<table style="float:left">
+<tr><th> Produtos de higiene:</th><tr>
 <tr><td><ul> Sabonete</ul></td></tr>
 <tr><td><ul> Esponja</ul></td></tr>
 <tr><td><ul> Shampoo</ul></td></tr>
@@ -30,13 +30,3 @@
 
 
 
-<p>
-<table>
-<tr><th> Produtos de higiene</th><tr>
-<tr><th><ul> Sabonete</ul></th></tr>
-<tr><th><ul> Esponja</ul></th></tr>
-<tr><th><ul> Shampoo</ul></th></tr>
-<tr><th><ul> Condicionador</ul></th></tr>
-<tr><th><ul> Creme</ul></th></tr>
-</table>
-</p>
