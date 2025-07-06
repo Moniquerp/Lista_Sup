@@ -3,14 +3,11 @@
 <p align="center"> <img src="/assets/bannergreen.jpg" alt="lista_sup" /> </p>
 
 ## Lista de Compras:
-<div align="right">
-<img src="https://media1.tenor.com/m/QNiDiabC3JAAAAAd/going-shopping-pembe.gif" width="300">
-</div> 
 
 <table>
 <tr>
 <td>
-<img src="https://media1.tenor.com/m/QNiDiabC3JAAAAAd/going-shopping-pembe.gif" width="300">
+<img src="https://media1.tenor.com/m/QNiDiabC3JAAAAAd/going-shopping-pembe.gif" width="200">
 </td>
 <td>
 
