@@ -14,7 +14,7 @@
 <tr><td><li> Maça</li></td></tr>
 </p>
 
-<div align="center">
+<div align="right">
 <img src="https://media1.tenor.com/m/QNiDiabC3JAAAAAd/going-shopping-pembe.gif" width="200">
 </div> 
 
