@@ -36,9 +36,9 @@
   <tr><td><li> Pão</li></td></tr>
 </table>
 
-    </td>
+   </td>
     <td style="padding-left: 50px;">
-
+    
 <!-- Tabela 2 -->
 <table>
   <tr><th> Produtos de higiene:</th></tr>
@@ -46,6 +46,6 @@
   <tr><td><ul> Esponja</ul></td></tr>
 </table>
 
-    </td>
+
   </tr>
 </table>
