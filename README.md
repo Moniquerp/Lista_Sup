@@ -22,7 +22,7 @@
 
 <p>
 <table>
-<tr><ul> Lista de Alimentos:</ul><tr>
+<tr><th><ul> Lista de Alimentos:</ul></th><tr>
 <tr><td><li> Batata</li></td></tr>
 <tr><td><li> Pão</li></td></tr>
 <tr><td><li> Queijo</li></td></tr>
