@@ -8,9 +8,21 @@
 <table>
 <tr>
 <td>
+
+
 <p>
 <table>
 <tr><th> Lista de Alimentos:</th><tr>
+<tr><td><li> Batata</li></td></tr>
+<tr><td><li> Pão</li></td></tr>
+<tr><td><li> Queijo</li></td></tr>
+<tr><td><li> Salame</li></td></tr>
+<tr><td><li> Maça</li></td></tr>
+</p>
+
+<p>
+<table>
+<tr><ul> Lista de Alimentos:</ul><tr>
 <tr><td><li> Batata</li></td></tr>
 <tr><td><li> Pão</li></td></tr>
 <tr><td><li> Queijo</li></td></tr>
@@ -36,3 +48,4 @@
 </table>
 </p>
 </div>
+
